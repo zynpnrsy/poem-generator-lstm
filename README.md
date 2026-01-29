@@ -1,7 +1,7 @@
 # poem-generator-lstm
 An NLP project that reads a given text and generates new texts similar to its writing style.(CharLSTM)
 
-The correct file structure is as follows, excluding the txt files and model weights.
+The correct file structure is as follows, excluding model weights. you can find datasets as zip file
 
 
 
