@@ -1,1 +1,1 @@
-this file inclued data and model
+this folder inclued data and model
